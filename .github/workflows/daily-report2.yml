@@ -13,7 +13,7 @@ on:
 
 jobs:
   job1:
-    name: daily report
+    name: daily report2
     runs-on: ubuntu-latest
 
     steps:
